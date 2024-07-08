@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>portfolio</title>
+    </head>
+    <body>
+        <h1><b>Nikhil Dhiman</b></h1>
+        <br>
+        <p>
+                <b>Summary</b>:Hey guys, I am Nikhil Dhiman and i am from Mohali, Punjab.
+            
+        </p>
+        <img src="istockphoto-1399565382-612x612.jpg" alt="" height="200px" width="200px">
+        <p>
+            <h2>
+                <b>Education</b>
+            </h2>
+            <ul>
+                <li>Class X from doon international school</li>
+                <li>Class 12 in non med</li>
+                <li>btech in cse</li>
+            </ul>
+            <h2>
+                <b>Skills</b>
+            </h2>
+                <ul>
+                    <li>AI Designer</li>
+                    <li>Coding</li>
+                    <li>sketching</li>
+                </ul>
+            <h2>
+                <b>Hobbies</b>
+            </h2>
+                <ul>
+                    <li>Dancing</li>
+                    <li>Cooking</li>
+                    <li>Playing guitar</li>
+                </ul>
+            <h2>
+                <b>Contact</b>
+            </h2>
+                <ul>
+                    <li>nikhil2081.be23@chitkara.edu.in</li>
+                    <li>6283443740</li>
+                </ul>
+            
+        </p>
+    </body>
+
+</html>
